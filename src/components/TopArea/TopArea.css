@@ -1,0 +1,13 @@
+.HeaderAreaContainer{
+    background-image: url("../../assets/svg/landingPageSolisDev.svg");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: right;
+    background-color: whitesmoke;
+}
+
+.other{
+    height: 100vh;
+}
